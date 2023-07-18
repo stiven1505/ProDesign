@@ -157,7 +157,7 @@ nav {
 
 #main-footer {
     position: relative;
-    background-image: url('../img/Portada-7.png');
+    background-image: url('../img/Portada_7.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -331,7 +331,7 @@ nav {
 
 
 .switch #switcher:hover {
-    box-shadow: #7a3331 0px 3px 8px;
+    box-shadow: #0c8af955 0px 3px 8px;
 }
 
 .switch #switcher2:hover {
