@@ -73,7 +73,6 @@ nav {
     align-items: center;
     position: relative;
     background-color: #0c8cf9;
-    margin-bottom: 3%;
 
     
 }
@@ -299,6 +298,7 @@ nav {
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
+    background-color: #ffffff;
 }
 
 .switch #switcher2:checked+label {
@@ -412,6 +412,8 @@ nav {
 
 .switch #switcher:not(:checked)+label {
     background-image: url('../img/logo_empresa.png');
+    background-color: white;
+    border-radius: 35px;
 }
 
 .switch #switcher2:not(:checked)+label {
@@ -688,8 +690,7 @@ footer {
         position: absolute;
         top: 20px;
         bottom: -38px;
-        /* border-radius: 20px; */
-        /* background-color: red; */
+
     }
     
     .switch input::after {
