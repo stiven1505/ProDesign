@@ -1,0 +1,10 @@
+
+
+.main-header{
+    width: 100%;
+    min-height: 600px;
+    background-image: url('../img/WEP-FONDO-PORTADA_Mesa-de-trabajo-1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
