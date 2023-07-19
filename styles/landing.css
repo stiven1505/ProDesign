@@ -416,7 +416,8 @@ nav {
 
 .main-message {
     width: 100%;
-    height: 100px;
+    height: 5rem;
+    min-height: 100px;
     background-color: #1d71ff;
     padding: 10px;
 }
@@ -679,9 +680,29 @@ footer {
 /*Tablet*/
 
 @media screen and (max-width:1020px) {
+
     .main-body .content-data .data {
         margin-top: 1.5rem;
     }
+
+    .main-body .content-card .card .front .front-body h1 {
+        margin-top: .5rem;
+        font-size: 45px;
+    }
+
+    .main-body .content-card .card .front .front-body h5 {
+        font-size: 20px;
+    }
+
+ .main-body .content-card .card .back h1 {
+        font-size: 50px;
+    }
+
+    .main-body .content-card .card .back h5 {
+        font-size: 20px;
+    }
+
+
 
     .main-footer .main-footer-header .content-card {
         margin: 1rem;
