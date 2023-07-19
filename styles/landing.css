@@ -708,3 +708,23 @@ footer {
         height: 100%;
     }
 }
+
+/*Adicionales*/
+@media screen and (max-width:1200px) {
+    .comentario{
+        border-radius: 40px;
+        height: 27vh;
+    }
+    }
+
+    @media screen and (max-width:992px) {
+        .comentario{
+            height: 40vh;
+        }
+        }
+
+ @media screen and (max-width:767px) {
+            .comentario{
+                height: 20vh;
+        }
+ }
