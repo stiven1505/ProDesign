@@ -584,6 +584,10 @@ nav {
     font-family: "Roboto", Sans-serif;
 }
 
+.vertical-align-center h6, h1, p {
+    font-family: "Roboto", Sans-serif;
+}
+
 
 
 /*Footer */
