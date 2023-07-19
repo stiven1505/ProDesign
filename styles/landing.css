@@ -16,6 +16,10 @@ nav {
 
 }
 
+.fas{
+    color:#1d71ff
+}
+
 .nav-link {
     font-family: "Roboto", Sans-serif;
 }
@@ -174,6 +178,8 @@ nav {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
     /* Sombreado del texto */
     margin-bottom: 2%;
+    font-family: "Roboto", Sans-serif;
+
 
 }
 
@@ -186,6 +192,7 @@ nav {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
     /* Sombreado del texto */
     font-weight: 600;
+    font-family: "Roboto", Sans-serif;
 }
 
 
