@@ -684,12 +684,23 @@ footer {
     }
 
     .main-footer .main-footer-header .content-card {
-        width: 100%;
-        margin-top: .5rem;
-        margin-bottom: .5rem;
+        margin: 1rem;
+        margin-inline: 0px;
+    }
+    .main-footer .main-footer-header .content-card .content-tool {
+        width: 80px;
+        height: 80px;
+        border-radius: 50px;
+    }
+    .main-footer .main-footer-header .content-card .content-tool i {
+        font-size: 40px;
+    }
+    .main-footer .main-footer-header .content-card h1 {
+        font-size: 25px;
     }
     .main-footer .main-footer-header .content-card p {
         text-align: center;
+        font-size: 18px;
     }
 
     .main-footer .main-footer-body .content-map {
