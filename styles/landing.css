@@ -514,6 +514,7 @@ nav {
     text-align: center;
 }
 
+
 .main-footer .main-footer-body .content-map {
     width: 80%;
     height: 80%;
@@ -543,7 +544,7 @@ nav {
 /*Comentarios*/
 .comment-box {
     padding: 20px;
-    background-color: #f2f2f2;
+
 }
 
 .comment-img {
@@ -579,7 +580,9 @@ nav {
     color: #1d71ff;
     font-family: "Roboto", Sans-serif;
 }
-
+.comment-box p {
+    font-family: "Roboto", Sans-serif;
+}
 
 
 

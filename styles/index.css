@@ -297,7 +297,7 @@ nav {
 }
 
 .switch #switcher2:checked+label {
-    background-image: url('../img/instagram.png');
+    background-image: url('../img/Instagram.png');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -311,7 +311,7 @@ nav {
 }
 
 .switch #switcher4:checked+label {
-    background-image: url('../img/facebook.png');
+    background-image: url('../img/Facebook.png');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
