@@ -12,11 +12,11 @@ nav {
 }
 
 .nav-link {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Roboto", Sans-serif;
 }
 
 .offcanvas-title {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Roboto", Sans-serif;
 }
 
 /*Menu*/
@@ -122,7 +122,7 @@ nav {
 .container-text h1{
     color: #ffffff;
     text-align: center;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Roboto", Sans-serif;
     font-size: 16px;
     font-style: normal;
     line-height: normal;
@@ -136,7 +136,7 @@ nav {
 #main-body .container-title h1 {
     color: #000;
     text-align: center;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Roboto", Sans-serif;
     font-size: 25px;
     font-style: normal;
     font-weight: bold;
@@ -446,7 +446,7 @@ footer {
 }
 
 .contFooter p {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Roboto", Sans-serif;
     font-size: 11px;
 }
 
@@ -637,7 +637,7 @@ footer {
         margin-bottom: 61px;
         color: #ffffff;
         text-align: center;
-        font-family: 'Montserrat', sans-serif;
+        font-family: "Roboto", Sans-serif;
         font-size: 64px;
         font-style: normal;
         font-weight: 700;
